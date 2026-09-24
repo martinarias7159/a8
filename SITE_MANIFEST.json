@@ -1,0 +1,207 @@
+{
+  "domain": "tavernoccasion",
+  "niche": "Artisanal Piccata Gastronomy & Evening Dining Occasions",
+  "design_concept": "Nordic Vanguard & Minimalist Organic",
+  "archetype_id": "nordic_organic",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "tavernoccasion_asset_1.jpg",
+      "size_kb": 280.18,
+      "md5": "17aab32ae22a8f559d3e5aa114165b68",
+      "description": "Fruit of Thailand Rambutan",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "tavernoccasion_asset_2.jpg",
+      "size_kb": 381.63,
+      "md5": "d5f3606cd4328de1be26a1921c85fbfd",
+      "description": "Fruits of Asia 001 Rambutan",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "tavernoccasion_asset_3.jpg",
+      "size_kb": 228.97,
+      "md5": "db61bb276ffb46d2b10d106bad20dbae",
+      "description": "Mixed fruits salak bali rambutan ma",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "tavernoccasion_asset_4.jpg",
+      "size_kb": 176.56,
+      "md5": "313fa7cf355c8fb75e24ce678a6e0ab5",
+      "description": "Nephelium lappaceum known as Rambu",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "tavernoccasion_asset_5.jpg",
+      "size_kb": 143.96,
+      "md5": "24c6ae18e321417001178d2f903a60f3",
+      "description": "Nephelium lappaceum201907mx",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "tavernoccasion_asset_6.jpg",
+      "size_kb": 178.63,
+      "md5": "f2ab04cc4c8c5da0d7589dfdc17fb200",
+      "description": "Nephilium lappaceum known as Rambu",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "tavernoccasion_asset_7.jpg",
+      "size_kb": 329.39,
+      "md5": "e35704d97750ff18899d0a5e4eab9992",
+      "description": "RambutanFruit",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "tavernoccasion_asset_8.jpg",
+      "size_kb": 184.8,
+      "md5": "b4d55a6d29c4f3693b8bf9402cf2e7e8",
+      "description": "Rambutan Langsat Stall 274993642",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "tavernoccasion_asset_9.jpg",
+      "size_kb": 152.57,
+      "md5": "10a14b92897d508476cfc5317524cf25",
+      "description": "Rambutan 11",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "tavernoccasion_asset_10.jpg",
+      "size_kb": 163.96,
+      "md5": "3dbf343b15b2627b76070e07c73fbef1",
+      "description": "Rambutan 12",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "tavernoccasion_asset_11.jpg",
+      "size_kb": 166.34,
+      "md5": "c78dea62b0f3a640f1fa7098e39d6c50",
+      "description": "Rambutan 5",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "tavernoccasion_asset_12.jpg",
+      "size_kb": 167.59,
+      "md5": "4143a436fc73b902a2dd979e74f91229",
+      "description": "Rambutan 54531836095",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "tavernoccasion_asset_13.jpg",
+      "size_kb": 176.92,
+      "md5": "d32b491980a6d8d4ab41a0cf6626bf50",
+      "description": "Rambutan 6",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "tavernoccasion_asset_14.jpg",
+      "size_kb": 235.14,
+      "md5": "37a4e75cd3f1090f1fb6a39766977e38",
+      "description": "Rambutan 8994134441",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "tavernoccasion_asset_15.jpg",
+      "size_kb": 350.7,
+      "md5": "2e6d2a499b439c1870cba9399e11fb80",
+      "description": "Rambutan 01",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "tavernoccasion_asset_16.jpg",
+      "size_kb": 216.59,
+      "md5": "571b4678016560c6402508bb4d675eaa",
+      "description": "Rambutan Bali",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "tavernoccasion_asset_17.jpg",
+      "size_kb": 297.4,
+      "md5": "df33184444778b19c094ff8849b9f33c",
+      "description": "Rambutan Binjai",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "tavernoccasion_asset_18.jpg",
+      "size_kb": 283.05,
+      "md5": "5649070dd3753c70fa0ccd6f05943876",
+      "description": "Rambutan Binjai Pasar Baru",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "tavernoccasion_asset_19.jpg",
+      "size_kb": 97.26,
+      "md5": "fef366b4c23ace3a140fd640252c6811",
+      "description": "Rambutan Fruit",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "tavernoccasion_asset_20.jpg",
+      "size_kb": 193.25,
+      "md5": "61e544c258dcbe8546306ff51a63f6bf",
+      "description": "Rambutan Fruit 17855550206",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://tavernoccasion.com/sitemap.xml",
+    "robots": "https://tavernoccasion.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
